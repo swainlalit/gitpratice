@@ -1,4 +1,4 @@
 class Hi{
 system.out.println("hi");
-  system.out.println("hi2");
+  system.out.println("hi22");
 }
